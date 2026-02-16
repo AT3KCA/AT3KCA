@@ -1,5 +1,14 @@
 ## 这里！ 👋
 
+AT3KCA(AT3K\_CA)的仓库来存放我所有认为值得被看见的东西，这是多方面的，涵盖功能，杂谈，文档等各种内容。
+
+期待与你的协作。
+
+## 社交？
+
+![AT3K\_CA - Bilibili](https://space.bilibili.com/1856254417)
+
+我不想暴露qq，bilibili上能展示的内容已经足够多。除此之外就没有了，也许有条件之后会搭个邮件服务器，
 <!--
 **AT3KCA/AT3KCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
