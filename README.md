@@ -12,6 +12,8 @@ AT3KCA(AT3K\_CA)的仓库来存放我所有认为值得被看见的东西，这�
 
 [AT3K\_CA - Github.io](https://at3kca.github.io)
 
+[AT3K\_CA - archive.at3kca.com](https://archive.at3kca.com)~~和Github.io是同源的~~
+
 Bilibili上能展示的内容已经足够多。除此之外就没有了，也许有条件之后会搭个邮件服务器。毕竟能用自己的地址处理邮件很有趣不是吗？
 <!--
 **AT3KCA/AT3KCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
